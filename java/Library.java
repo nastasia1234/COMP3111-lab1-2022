@@ -7,7 +7,6 @@ public class Library {
             System.out.println("Hello, World!");
     }
 
-
     public boolean someLibraryMethod() {
         return true;
     }
